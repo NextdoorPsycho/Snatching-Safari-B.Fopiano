@@ -1,13 +1,13 @@
 {
     "name": "Snatching-Safari-B.Fopiano",
     "version": "1.0.0",
-    "description": "a SafariBooksOnline-Downloader and .epub creator",
+    "description": "a SafariBooksOnline Downloader and .epub creator",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "safaribooks-downloader": "./index.js"
+        "Safari-Fopiano": "./index.js"
     },
     "repository": {
         "type": "git",
@@ -30,3 +30,4 @@
     },
     "devDependencies": {}
 }
+zzz
