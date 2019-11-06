@@ -1,11 +1,12 @@
 # SafariBooks Downloader & ePub Generator
-Safari-Fopiano is a project created and maintained by [Brian Fopiano] With libraries from [Nico Haenggi](http://www.nicohaenggi.com/).
+SafariBooks-Downloader is a project created and maintained by [Brian Fopiano] With libraries from [Nico Haenggi](http://www.nicohaenggi.com/).
+
 
 # Installation Guide
 
 ## How To Install
 
-Install Node.js. We recommend the **LTS release**. The Safari-Fopiano has been tested on most node versions between **v4.4.5 and v.6.9.5** and should therefore cause no problems running on one of these versions. For more information about how to install it on your environment, see [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/). To verify your installation, run:
+Install Node.js. We recommend the **LTS release**. The SafariBooks-Downloader has been tested on most node versions between **v4.4.5 and v.6.9.5** and should therefore cause no problems running on one of these versions. For more information about how to install it on your environment, see [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/). To verify your installation, run:
 
 ```bash
 node -v
@@ -21,7 +22,7 @@ If the command returns a version number, you're all set. Next, we'll clone the r
 
 ```bash
 git clone https://github.com/NextdoorPsycho/Snatching-Safari-B.Fopiano.git
-cd Safari-Fopiano
+cd SafariBooks-Downloader
 ```
 
 Install all the dependencies with npm.
@@ -29,7 +30,7 @@ Install all the dependencies with npm.
 ```bash
 npm install
 ```
-Congratulations! You've successfully installed Safari-Fopiano.
+Congratulations! You've successfully installed SafariBooks-Downloader.
 If you desire to do so, you can install the tool globally on your machine. To do so, run:
 
 ```bash
@@ -39,7 +40,7 @@ npm install -g
 To verify the installation, please run:
 
 ```bash
-Safari-Fopiano --version
+safaribooks-downloader --version
 ```
 
 If the command returns a version number, you have successfully installed the tool globally. The current release is `v1.0.0`.
@@ -50,7 +51,7 @@ If the command returns a version number, you have successfully installed the too
     This will update the generator to the latest master branch
 3. Reinstall dependencies with `npm install` or `npm install -g`  
     using `npm install -g` will install the generator globally
-4. Run `Safari-Fopiano --version`  
+4. Run `safaribooks-downloader --version`  
     After you are done following it this will print out the current version of the generator.
 
 ## How To Run
@@ -80,12 +81,12 @@ The tool provides the following six options. The options **--bookid, --username,
 
 An example showing how a SafariBooksOnline with id **9781484224427** is downloaded and converted into a ePub file **testbook.epub**.
 ```bash
-Safari-Fopiano -b 9781484224427 -u UserName -p MySuperSecurePassword -o /Users/brian/Desktop/testbook.epub
+safaribooks-downloader -b 9781484224427 -u UserName -p MySuperSecurePassword -o /Users/nicohanggi/Desktop/testbook.epub
 ```
 
 An example showing how a SafariBooksOnline with id **9892595335538** is downloaded and converted into a ePub file **testdebugbook.epub**.
 ```bash
-Safari-Fopiano -d -b 9781484224427 -u UserName -p MySuperSecurePassword -o /Users/brian/Desktop/testbook.epub
+safaribooks-downloader -d -b 9781484224427 -u UserName -p MySuperSecurePassword -o /Users/nicohanggi/Desktop/testbook.epub
 ```
 # Features
 - [x] generating ePub with cover image, authors and publisher
