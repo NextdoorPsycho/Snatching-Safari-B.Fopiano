@@ -1,9 +1,5 @@
 #!/usr/bin/env node
 
-// # Application Bootup
-// boots up the application
-
-// defines that javascript should be executed in 'strict mode' (ECMAScript 5)
 'use strict';
 
 // # Initialise CLI
@@ -12,6 +8,6 @@ module.exports = require('./lib/cli/index.js');
 
 // # Closing Application
 // make sure the manager gets stopped
-process.on( 'SIGINT', function() {
-  process.exit( );
+process.on('SIGINT', function() {
+    process.exit();
 });
