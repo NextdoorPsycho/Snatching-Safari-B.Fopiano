@@ -1,0 +1,1 @@
+safaribooks-downloader -b 9780240521763 -o RecEdition.epub
