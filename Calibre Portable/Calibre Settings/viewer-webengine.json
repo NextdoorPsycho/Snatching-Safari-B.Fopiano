@@ -1,0 +1,32 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAD/////AAAAKQAAB4AAAAQ4AAACgAAAAUUAAAT/AAAEFAAAAAACAAAAB4AAAAAAAAAATwAAB38AAAQ3"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAKIA////AAAAAQAAAAAAAAAA/AIAAAAD+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFgD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADuAP////sAAAAWAGwAbwBvAGsAdQBwAC0AZABvAGMAawAAAAAA/////wAAAHEA////AAAHgAAAA+kAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "controls_help_shown_count": 1, 
+    "standalone_font_settings": {}, 
+    "standalone_misc_settings": {
+      "remember_last_read": true, 
+      "remember_window_geometry": false, 
+      "save_annotations_in_ebook": true, 
+      "singleinstance": false
+    }, 
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Tim Crich"
+        ], 
+        "key": "C:\\Users\\brian\\Desktop\\Calibre Portable\\Calibre Library\\Tim Crich\\Recording Tips for Engineers, 3rd Ed (2)\\Recording Tips for Engineers, 3 - Tim Crich.epub", 
+        "pathtoebook": "C:\\Users\\brian\\Desktop\\Calibre Portable\\Calibre Library\\Tim Crich\\Recording Tips for Engineers, 3rd Ed (2)\\Recording Tips for Engineers, 3 - Tim Crich.epub", 
+        "timestamp": "2019-11-20T21:47:31.141Z", 
+        "title": "Recording Tips for Engineers, 3rd Edition"
+      }
+    ]
+  }
+}
