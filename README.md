@@ -22,20 +22,15 @@ If the command returns a version number, you're all set. Next, we'll clone the r
 
 ```bash
 git clone https://github.com/NextdoorPsycho/Snatching-Safari-B.Fopiano.git
-cd SafariBooks-Downloader
+cd SafariBooks-Downloader or cd Snatching-Safari-B.Fopiano depending on the version/folder name
 ```
 
 Install all the dependencies with npm.
 
 ```bash
-npm install
-```
-Congratulations! You've successfully installed SafariBooks-Downloader.
-If you desire to do so, you can install the tool globally on your machine. To do so, run:
-
-```bash
 npm install -g
 ```
+Congratulations! You've successfully installed SafariBooks-Downloader.
 
 To verify the installation, please run:
 
