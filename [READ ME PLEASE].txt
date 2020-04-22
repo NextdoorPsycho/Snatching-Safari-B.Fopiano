@@ -1,0 +1,2 @@
+EDIT THE Start.SH 
+Add your User / Pass in the fields
